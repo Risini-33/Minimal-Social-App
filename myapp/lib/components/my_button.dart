@@ -21,10 +21,10 @@ class Mybutton extends StatelessWidget {
         padding: const EdgeInsets.all(25),
         child: Center(
             child: Text(
-          text,
-          style: const TextStyle(
-            fontWeight: FontWeight.bold,
-            fontSize: 16,
+              text,
+              style: const TextStyle(
+              fontWeight: FontWeight.bold,
+              fontSize: 16,
           ),
         )),
       ),
